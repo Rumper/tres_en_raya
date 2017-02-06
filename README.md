@@ -8,3 +8,7 @@ Para más informacion visitar las asosiaciones encontrada en la aulas AS.43, Sug
 
 
 Semana Informatica del 6 de Febrero de 2017 a 11 de Febrero de 2017. Web http://sites.ieee.org/sb-us/semana-de-la-informatica-17/#1485352064351-78e20500-af99
+
+
+Cliente y Servidor están desarrollado en Python 2.7
+tresenrayaconsola está desarrollado en Python 3.6
