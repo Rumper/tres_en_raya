@@ -14,4 +14,4 @@ Client.py y Servidor.py están desarrollado en Python 2.7
 
 Tresenrayaconsola.py está desarrollado en Python 3.6
 
-Como adicional, ponemos otro codigo creado 3 en raya, en el cual es un poco mas avanzado, y mejor acabado, para que podais ver como se elaborar. Es el fichero 3_en_raya.py desarrollado en Python 2.7
+Como adicional, ponemos otro código creado 3 en raya, en el cual es un poco mas avanzado, y mejor acabado, para que podaís ver como está desarrollado. Es el fichero 3_en_raya.py desarrollado en Python 2.7
