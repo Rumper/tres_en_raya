@@ -10,5 +10,8 @@ Para más informacion visitar las asosiaciones encontrada en la aulas AS.43, Sug
 Semana Informatica del 6 de Febrero de 2017 a 11 de Febrero de 2017. Web http://sites.ieee.org/sb-us/semana-de-la-informatica-17/#1485352064351-78e20500-af99
 
 
-Cliente y Servidor están desarrollado en Python 2.7
-tresenrayaconsola está desarrollado en Python 3.6
+Client.py y Servidor.py están desarrollado en Python 2.7
+
+Tresenrayaconsola.py está desarrollado en Python 3.6
+
+Como adicional, ponemos otro codigo creado 3 en raya, en el cual es un poco mas avanzado, y mejor acabado, para que podais ver como se elaborar. Es el fichero 3_en_raya.py desarrollado en Python 2.7
